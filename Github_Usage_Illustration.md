@@ -93,8 +93,8 @@
 # 通过Git将代码提交到GitHub
 
 ```
-git push origin master
-git pull origin master
+git push origin master **master要改成main**
+git pull origin master **master要改成main**
 ```
 
 ![image-20231219220915893](C:\Users\MO\AppData\Roaming\Typora\typora-user-images\image-20231219220915893.png)
